@@ -41,7 +41,7 @@ export default function Navbar({ pageType = null }) {
             </svg>
           </div>
           <span className="font-bold text-slate-800 text-sm tracking-tight group-hover:text-teal-700 transition-colors duration-200">
-            MediCheck
+            Agnos
           </span>
         </Link>
 

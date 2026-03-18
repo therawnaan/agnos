@@ -25,7 +25,7 @@ export default function LandingPage() {
           {/* Heading */}
           <h1 className="text-5xl sm:text-6xl font-black text-slate-900 leading-[1.05] tracking-tighter mb-5">
             Welcome to{" "}
-            <span className="text-teal-600">MediCheck</span>
+            <span className="text-teal-600">Agnos</span>
           </h1>
 
           <p className="text-slate-500 text-lg leading-relaxed mb-12 max-w-lg">
